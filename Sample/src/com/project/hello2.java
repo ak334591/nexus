@@ -12,6 +12,7 @@ public class hello2 {
 	      y = in.nextInt();
 	      z = a + y;
 	      System.out.println("Sum of entered integers = "+z);
+	      ///
 	   }
 	}
 
